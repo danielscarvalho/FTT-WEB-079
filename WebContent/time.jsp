@@ -15,6 +15,9 @@
 <% } %>
 	
 </ul>
-
+<p>
+JSP referência: 
+<a href="https://www.devmedia.com.br/introducao-ao-java-server-pages-jsp/25602">https://www.devmedia.com.br/introducao-ao-java-server-pages-jsp/25602</a>
+</p>
 </body>
 </html>
