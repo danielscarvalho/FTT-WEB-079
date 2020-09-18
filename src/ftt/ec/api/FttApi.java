@@ -1,4 +1,4 @@
-package ftt.ec;
+package ftt.ec.api;
 
 import java.io.IOException;
 import java.util.Date;
